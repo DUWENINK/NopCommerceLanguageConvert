@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NopCommerceLanguageConvert", "NopCommerceLanguageConvert.csproj", "{94BD3579-DABD-40E5-9A99-F4666F1AB2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94BD3579-DABD-40E5-9A99-F4666F1AB2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BD3579-DABD-40E5-9A99-F4666F1AB2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BD3579-DABD-40E5-9A99-F4666F1AB2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BD3579-DABD-40E5-9A99-F4666F1AB2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ABB170C-95D5-48F2-8D8E-71C0018DBF8F}
+	EndGlobalSection
+EndGlobal
